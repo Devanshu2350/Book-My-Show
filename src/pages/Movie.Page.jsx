@@ -170,7 +170,7 @@ const MoviePage = () => {
       <hr />
     </div>
 
-    Cast Slider
+    {/* Cast Slider
     <div className="my-8">
       <h2 className="text-gray-800 font-bold text-2xl mb-4">
         Cast and Crew
@@ -211,7 +211,7 @@ const MoviePage = () => {
       posters={recommendedMovies}
       isDark={false}
     />
-  </div>
+  </div> */}
 </>
 );
 };
